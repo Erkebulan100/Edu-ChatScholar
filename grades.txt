@@ -1,0 +1,25 @@
+Liam Smith,English,100,AA
+Liam Smith,Science,80,BB
+Liam Smith,Mathematics,90,AA
+Liam Smith,History,85,BA
+Alexander Walker,English,100,AA
+Alexander Walker,Science,100,AA
+Alexander Walker,Mathematics,100,AA
+Alexander Walker,History,100,AA
+Isla Fisher,English,100,AA
+Isla Fisher,Science,100,AA
+Isla Fisher,Mathematics,100,AA
+Isla Fisher,History,100,AA
+Emma Johnson,Networks,100,AA
+Emma Johnson,Database Systems,100,AA
+Emma Johnson,Artificial Intelligence,85,BA
+Emma Johnson,Science,90,AA
+Emma Johnson,Mathematics,86,BA
+Emma Johnson,History,89,BA
+Emma Johnson,Machine Learning,83,BB
+Emma Johnson,Human-Computer Interaction,86,BA
+Emma Johnson,Operating Systems,87,BA
+Emma Johnson,English,100,AA
+Emma Johnson,Computer Graphics,100,AA
+Emma Johnson,Algorithms and Data Structures,100,AA
+Emma Johnson,Software Engineering,90,AA
